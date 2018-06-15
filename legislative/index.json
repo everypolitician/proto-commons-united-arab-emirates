@@ -1,3 +1,13 @@
 [
-
+  {
+    "comment": "Federal National Council",
+    "house_item_id": "Q1479761",
+    "position_item_id": "Q21328608",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  }
 ]
