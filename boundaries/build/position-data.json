@@ -1,0 +1,21 @@
+[
+  {
+    "role_id": "Q21328608",
+    "role_name": {
+      "lang:ar": "عضو المجلس الوطني الاتحادي الإماراتي",
+      "lang:en": "Member of the Federal National Council of the United Arab Emirates"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:ar": "عضو البرلمان",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1479761",
+    "organization_name": {
+      "lang:ar": "المجلس الوطني الاتحادي",
+      "lang:en": "Federal National Council"
+    }
+  }
+]

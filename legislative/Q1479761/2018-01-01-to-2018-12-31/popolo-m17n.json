@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ar": "المجلس الوطني الاتحادي",
+        "lang:en": "Federal National Council"
+      },
+      "id": "Q1479761",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1479761"
+        }
+      ],
+      "area_id": "Q878",
+      "seat_counts": {
+        "Q21328608": "40"
+      }
+    }
   ],
   "areas": [
 
