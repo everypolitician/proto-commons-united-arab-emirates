@@ -1,0 +1,90 @@
+{
+  "head": {
+    "vars": [
+      "position",
+      "position_name_ar",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_ar",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_ar",
+      "position_superclass_en",
+      "body",
+      "body_ar",
+      "body_en"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21328608"
+        },
+        "position_name_ar": {
+          "xml:lang": "ar",
+          "type": "literal",
+          "value": "عضو المجلس الوطني الاتحادي الإماراتي"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Federal National Council of the United Arab Emirates"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q878"
+        },
+        "admin_area_ar": {
+          "xml:lang": "ar",
+          "type": "literal",
+          "value": "الإمارات العربية المتحدة"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "United Arab Emirates"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_ar": {
+          "xml:lang": "ar",
+          "type": "literal",
+          "value": "عضو البرلمان"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1479761"
+        },
+        "body_ar": {
+          "xml:lang": "ar",
+          "type": "literal",
+          "value": "المجلس الوطني الاتحادي"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Federal National Council"
+        }
+      }
+    ]
+  }
+}
